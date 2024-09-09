@@ -1,2 +1,2 @@
 # Amazon-Clone
-contains Amazon clone frontend (HTML, CSS) given during my bootcamp
+contains Amazon clone website's frontend (HTML, CSS) given during my bootcamp
